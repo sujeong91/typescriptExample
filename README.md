@@ -1,0 +1,2 @@
+# typescriptExample
+typescript practice example
